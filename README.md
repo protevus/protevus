@@ -29,7 +29,7 @@ We welcome contributions from the community! If you'd like to contribute to the 
 
 ## License
 
-The Protevus Starter Application is released under the [MIT License](LICENSE).
+The Protevus Application is released under the [MIT License](LICENSE).
 
 ## Support and Community
 
