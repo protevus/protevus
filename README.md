@@ -1,4 +1,6 @@
-# Protevus
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/protevus/branding/main/protevus-logo-bg.png"></a></p>
+
+## About Protevus
 
 > **Note:** This repository provides a base application setup inspired by Laravel. If you want to contribute to the core Protevus Platform, visit the main [Protevus Platform repository](https://github.com/protevus/platform).
 
